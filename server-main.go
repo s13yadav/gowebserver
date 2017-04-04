@@ -7,4 +7,5 @@ import (
 
 func main(){
   // read the configuration file, to get the node details
+  // start the server
 }
